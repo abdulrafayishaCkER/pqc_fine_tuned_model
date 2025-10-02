@@ -1,0 +1,11 @@
+transformers==4.34.0
+datasets==2.15.1
+accelerate==0.24.0
+peft==0.5.0
+trl==0.7.0
+einops==0.6.1
+bitsandbytes==0.45.3
+torch>=2.1.0
+huggingface-hub==0.18.3
+numpy==1.26.0
+tqdm==4.66.1
